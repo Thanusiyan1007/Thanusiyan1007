@@ -2,32 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rayappu Thanusiyan</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from Srilanka</h3>
 
-
-![snake gif](https://github.com/thanusiyan1007/thanusiyan1007/blob/output/github-snake.svg)
-
-
-<!-- Copy-paste in your Readme.md file -->
-
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=157779212" target="_blank" style="display: block">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=157779212&image_size=auto&color_scheme=dark" width="721" height="auto">
-      <img alt="Contribution Time Distribution of @Thanusiyan1007" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=157779212&image_size=auto&color_scheme=light" width="721" height="auto">
-    </picture>
-  </a>
-
-  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=157779212&activity_type=all" target="_blank" style="display: block; margin-top: 20px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=157779212&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-      <img alt="@Thanusiyan1007's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=157779212&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-    </picture>
-  </a>
-</div>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-
 <img align="right" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Development GIF" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanusiyan1007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
@@ -58,3 +32,28 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanusiyan1007&show_icons=true&locale=en&layout=compact" alt="thanusiyan1007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanusiyan1007&show_icons=true&locale=en" alt="thanusiyan1007" /></p>
+
+
+
+![snake gif](https://github.com/thanusiyan1007/thanusiyan1007/blob/output/github-snake.svg)
+
+
+<!-- Copy-paste in your Readme.md file -->
+
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=157779212" target="_blank" style="display: block">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=157779212&image_size=auto&color_scheme=dark" width="721" height="auto">
+      <img alt="Contribution Time Distribution of @Thanusiyan1007" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=157779212&image_size=auto&color_scheme=light" width="721" height="auto">
+    </picture>
+  </a>
+
+  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=157779212&activity_type=all" target="_blank" style="display: block; margin-top: 20px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=157779212&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+      <img alt="@Thanusiyan1007's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=157779212&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+    </picture>
+  </a>
+</div>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
