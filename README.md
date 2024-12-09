@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://pixel77.com/wp-content/uploads/2016/05/graphic-design-gifs-2-1.gif" alt="Creative Profile Banner" width="800">
 </p>
+
 <h1 align="center">Hi 👋, I'm Rayappu Thanusiyan</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX Designer from Sri Lanka</h3>
 
@@ -9,6 +10,10 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=thanusiyan1007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
+
+---
+
+### 🚀 About Me:
 
 - 🔭 I’m currently working on [DOT-Music (Music Streaming Website)](https://github.com/SLDrago/DOT-Music)
 
@@ -26,7 +31,7 @@
 
 ---
 
-### Connect with me:
+### 🌐 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/rayapputhanusiyan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -43,7 +48,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <!-- Add other tools as necessary -->
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
 ---
@@ -54,4 +63,11 @@
 </p>
 <p>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=thanusiyan1007&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanusiyan1007&bg_color=ffffff&color=7db2f7&line=4c8eda&point=1abc9c&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
