@@ -1,8 +1,4 @@
 
-<p align="center" width="1280" height="720">
-  <img src="https://pixel77.com/wp-content/uploads/2016/05/graphic-design-gifs-2-1.gif" alt="Profile Banner" >
-</p>
-
 <h1 align="center">Hi 👋, I'm Rayappu Thanusiyan</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from Srilanka</h3>
 
