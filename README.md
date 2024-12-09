@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rayappu Thanusiyan</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from Srilanka</h3>
 
-![snake gif](https://github.com/thanusiyan1007/thanusiyan1007/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/thanusiyan1007/thanusiyan1007/blob/output/github-snake.svg)
+
 
 <!-- Copy-paste in your Readme.md file -->
 
