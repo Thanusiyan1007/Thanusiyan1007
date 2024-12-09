@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanusiyan1007&show_icons=true&locale=en&layout=compact" alt="thanusiyan1007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanusiyan1007&show_icons=true&locale=en" alt="thanusiyan1007" /></p>
-
-add perfect gif and add banner also add
